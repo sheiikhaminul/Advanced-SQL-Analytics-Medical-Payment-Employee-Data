@@ -1,3 +1,4 @@
+![Thumbnail](sql_analytics_project-1.png)
 # 🏥 Advanced SQL Analytics — Medical Payment & Employee Data
 
 > **PostgreSQL** | Window Functions | CTEs | Aggregations | Date Functions
