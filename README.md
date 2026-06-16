@@ -423,4 +423,4 @@ The CTE joins payment and employee tables, applies the business rule, and assign
 
 ---
 
-*Built with PostgreSQL | Dataset: Radiant Data System Ltd*
+*Built with PostgreSQL | Dataset: Custom*
